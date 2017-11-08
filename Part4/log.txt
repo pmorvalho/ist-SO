@@ -1,0 +1,9 @@
+iteracao 0
+pid: 15668 execution time: 0 s
+total execution time: 0 s
+iteracao 0
+pid: 15951 execution time: 0 s
+total execution time: 0 s
+iteracao 1
+pid: 15952 execution time: 0 s
+total execution time: 0 s
