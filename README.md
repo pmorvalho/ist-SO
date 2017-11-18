@@ -1,8 +1,9 @@
-# ist-sistemas-operativos
-IST
+# Sistemas Operativos
 
-LEIC-A
+[IST](https://tecnico.ulisboa.pt/pt/) 
 
-Sistemas Operativos - 2º ano 2015-2016
+[LEIC-A](https://fenix.tecnico.ulisboa.pt/cursos/leic-a/descricao)
+
+[Sistemas Operativos](https://fenix.tecnico.ulisboa.pt/disciplinas/SO4517/2015-2016/1-semestre) - 2º ano 2015-2016
 
 Nota: 19/20
